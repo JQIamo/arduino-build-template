@@ -16,3 +16,7 @@ Then, develop at will! Push to a new remote repository by:
 `git push -u origin master`
 
 etc., etc.
+
+To pull in new changes, do:
+
+`git fetch template` followed by `git merge template/master`
