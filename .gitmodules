@@ -1,0 +1,3 @@
+[submodule "toolchain/Arduino-Makefile"]
+	path = toolchain/Arduino-Makefile
+	url = https://github.com/JQIamo/Arduino-Makefile.git
